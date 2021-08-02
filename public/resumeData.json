@@ -1,41 +1,31 @@
 {
   "main": {
-    "name": "Naz Dumanskyy",
-    "occupation": "Head Instructor @CleverProgrammer",
-    "description": "Full Stack Developer and Lead Instructor at Clever Programmer.",
-    "image": "Naz.jpg",
-    "bio": "My name is Naz, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer.",
+    "name": "Mordecai Weiss",
+    "occupation": "Noam Homes Real Estate Agent",
+    "description": "Homebuyers either see realtors as a great REALTOR® who is going to help them through the process of buying a home, or they see us as somebody who is going to take them to go see houses. The former is what the relationship needs to be, while the latter is something more like what a tour guide can offer..",
+    "image": "totty.jpeg",
+    "bio": "I was born in Miami Beach, Florida, and served as an emissary for Chabad in Teaneck, New Jersey for 21 years. Together with my family, we made Aliyah in July 2003. I am the author of 'You Come For One Reason But Stay For Another.' I am a licensed Tour Guide, a Noam Homes Real Estate agent based out of Mitzpe Yericho, a father of 12 children, and a grandfather of many.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "naz@cleverprogrammer.com",
-    "phone": "+1 800 NAZ DUMA",
+    "email": "rabbiguide@gmail.com",
+    "phone": "+972 52-720-3089",
     "address": {
-      "street": "123 Fake Street",
-      "city": "Beverly Hills",
-      "state": "CA",
-      "zip": "90035"
+      "street": "~",
+      "city": "Mitzpe yericho",
+      "state": "Israel",
+      "zip": "9065100"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://www.noamhomes.com/",
+    "resumedownload": "http://aaa.com",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/nazariy1995",
+        "url": "https://www.facebook.com/RabbiGuide",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/nazariydumanskyy/",
+        "url": "https://www.linkedin.com/in/mordechai-weiss-718855110/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/nazdumanskyy/",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/Nazariy995",
-        "className": "fa fa-github"
       }
     ]
   },
@@ -43,23 +33,29 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Michigan - Dearborn",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "January 2017",
+        "school": "Fairleigh Dickenson University",
+        "degree": "Masters in Family Counseling",
+        "graduated": "YES",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "United Lubavitch Yeshiva",
+        "degree": "Bachelors and Masters in Rabbinical Studies/Ordination",
+        "graduated": "YES",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "JavaScript/Python Specialist",
-        "years": "May 2019 - Present",
-        "description": "Transforming the lives of people by teaching them how to become successful developers no matter if they are a beginner or not!"
+        "company": "Noam Homes",
+        "title": "Real Estate Agent",
+        "years": "November 2020 - Present",
+        "description": "NEED INFO."
       },
       {
-        "company": "NazaWEb",
-        "title": "Founder / Developer",
-        "years": "Jan 2019 - Present",
+        "company": "Rabbi Guide",
+        "title": "Owner and Operator",
+        "years": "March 2009 - Present",
         "description": "Helping businesses showing their best selves to clients."
       }
     ],

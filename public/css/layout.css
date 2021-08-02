@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background: #161415 url(https://image.freepik.com/free-photo/contemporary-building-exterior-skyscraper-design-concept_53876-65455.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -65,15 +65,14 @@ header .banner-text h1 {
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
 header .banner-text h3 {
-   font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #A8A8A8;
+   font: 18px/1.9em 'librebaskerville-regular', serif, bolder;
+   color: black;
    margin: 0 auto;
    width: 70%;
-   text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: #fff;
+   color: red;
 }
 header .banner-text hr {
    width: 60%;
@@ -103,7 +102,7 @@ header .scrolldown a {
    bottom: 30px;
    left: 50%;
    margin-left: -29px;
-   color: #fff;
+   color: black;
    display: block;
    height: 42px;
    width: 42px;
@@ -169,7 +168,7 @@ ul#nav li a {
    line-height: 32px;
 	text-decoration: none;
    text-align: left;
-   color: #fff;
+   color: black;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
@@ -179,7 +178,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: red; }
 
 
 /* ------------------------------------------------------------------ */
@@ -187,7 +186,9 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background: #161415 url(https://content.presspage.com/uploads/2110/1920_gettyimages-1062533048-448354.jpg?10000) no-repeat top center;
+   background-size: cover !important;
+	-webkit-background-size: cover !important;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -203,7 +204,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: white;
 }
 #about .profile-pic {
    position: relative;
@@ -236,7 +237,10 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
+   background: #161415 url(https://images.pexels.com/photos/574283/pexels-photo-574283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-KvhgON3i5LoXaIUQwcu4x2ph4z5fbSZepw&usqp=CAU) no-repeat top center;
+   background-size: cover !important;
+	-webkit-background-size: cover !important;
+   text-align: center;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -268,7 +272,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
+   color: black;
    margin-bottom: 18px;
    margin-top: 9px;
 }
@@ -651,7 +655,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(https://image.freepik.com/free-photo/big-city-skyline-with-urban-skyscrapers-sunset-background_1127-3596.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -807,7 +811,7 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #11ABB0; }
+#contact a, #contact a:visited  { color: red; font-size: 32px; margin-left: 140px; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
